@@ -1,0 +1,7 @@
+{
+  "name": "as1-pt1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
